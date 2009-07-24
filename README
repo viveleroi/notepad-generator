@@ -1,0 +1,18 @@
+Notepad Generator - 1.0.0a
+Copyright (c) 2005 Michael Botsko / Botsko.net, LLC
+Licensed Under the Mozilla Public License, 1.1
+http://www.mozilla.org/MPL/MPL-1.1.txt
+
+This tool allows you to customize a PDF notepad. I needed a way to organize my notes 
+from various meetings, so I developed this to assist me. Below you can customize how 
+you would like your PDF file to look. You can then print it out on 
+standard 8 1/2 x 11 paper.
+
+http://www.botsko.net/Demos/notepad_generator/
+
+http://github.com/botskonet/notepad-generator/tree/master
+
+** Note: I've moved this code out of my private svn repo so that
+anyone who was interested could fork it, download it, and improve it. 
+It's been almost six years since I wrote the code so don't go taking it
+as an example of my skills. :)
